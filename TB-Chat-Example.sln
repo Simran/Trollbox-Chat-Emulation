@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TB-Chat-Example", "TB-Chat-Example.csproj", "{C48C2C91-A507-4472-9D44-8304D8727BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C48C2C91-A507-4472-9D44-8304D8727BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48C2C91-A507-4472-9D44-8304D8727BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48C2C91-A507-4472-9D44-8304D8727BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48C2C91-A507-4472-9D44-8304D8727BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TB-Chat-Example.csproj
+	EndGlobalSection
+EndGlobal
